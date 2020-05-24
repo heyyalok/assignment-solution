@@ -1,0 +1,38 @@
+body{
+	max-width: 1500px;
+	margin: auto;
+	font-family: Roboto;
+	font-size: 16px;
+}
+
+h1{
+   text-align: center;
+}
+
+h2{
+	text-align: right;
+	color: #11141e, ;
+	background-color: #ffb4a2;
+	padding: 10px 16px;
+	margin: 1px;
+}
+
+div{
+    border: 1px solid black;
+	margin-top: 50px;
+	margin-right: 130px;
+	padding: 20px;
+	float: left;
+}
+
+#left{
+	float: left;
+}
+
+#left{
+	float: left;
+}
+
+#right{
+	float: right;
+}
